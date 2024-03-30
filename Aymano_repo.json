@@ -4,6 +4,25 @@
   "description": "Here's all the apps that are important to me",
   "iconURL": "https://example.com/source_icon.png",
   "tintColor": "#73ECFF",
-  "apps": [],
+  "apps": [
+    "apps": [
+    {
+        "name": "Limón",
+        "bundleIdentifier": "com.antique.Limon",
+        "developerName": "Example Developer",
+        "localizedDescription": "This is an awesome app only available on AltStore.",
+        "iconURL": "https://limonemulator.com/wp-content/uploads/2023/11/Limon-Emulator-icon-768x768.png",
+        "tintColor": "#F54F32",
+        "category": "games",
+        "screenshots": [
+            "https://limonemulator.com/wp-content/uploads/2023/06/emuthreeds-ss-1.png",
+            "https://limonemulator.com/wp-content/uploads/2023/06/emuthreeds-ss-2.png",
+            "https://limonemulator.com/wp-content/uploads/2023/06/emuthreeds-ss-1.png"
+        ],
+        "versions": [],
+        "appPermissions": {},
+    },
+]
+  ],
 }
 
