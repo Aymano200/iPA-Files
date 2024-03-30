@@ -5,7 +5,6 @@
   "iconURL": "https://example.com/source_icon.png",
   "tintColor": "#73ECFF",
   "apps": [
-    "apps": [
     {
         "name": "Limón",
         "bundleIdentifier": "com.antique.Limon",
@@ -22,7 +21,6 @@
         "versions": [],
         "appPermissions": {},
     },
-]
   ],
 }
 
