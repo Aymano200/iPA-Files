@@ -44,6 +44,42 @@
     },
      {
       "beta": false,
+      "name": "Dead Cells+",
+      "bundleIdentifier": "com.playdigious.deadcells.applearcade",
+      "developerName": "Playdigious",
+      "subtitle": "The best platformer",
+      "version": "3.2.2",
+      "versionDate": "2024-03-11T12:33:18Z",
+      "versionDescription": " ",
+      "downloadURL": "https://download.starfiles.co/AAGekhAVIy2B",
+      "localizedDescription": "The best fight platformer ever",
+      "iconURL": "blob:https://imgdownloader.com/fd54f005-c66a-46b7-a783-63c6b2d49107",
+      "tintColor": "2d2d30",
+      "category": "games",
+      "size": 108157712,
+      "versions": [
+   {
+    "version": "3.2.2",
+    "date": "2024-03-11",
+    "localizedDescription": " ",
+    "downloadURL": "https://download.starfiles.co/AAGekhAVIy2B",
+    "size": 22000000
+  },
+      ],
+      "appPermissions": {
+                  "entitlements": [
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.siri"
+                ],
+                "privacy": {
+                    "NSPhotoLibraryUsageDescription": "App saves photos to your Photo Library.",
+                    "NSCameraUsageDescription": "App uses camera to take photos.",
+                    "NSMicrophoneUsageDescription": "App uses microphone to record video."
+                }
+      }
+    },
+         {
+      "beta": false,
       "name": "PokeMMO",
       "bundleIdentifier": "eu.pokemmo.client",
       "developerName": "pokemmo",
