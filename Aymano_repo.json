@@ -50,16 +50,5 @@
       }
     }
   ],
-  "news": [
-    {
-      "title": "MovieBoxPro is on Altstore 2.0!",
-      "identifier": "mbp-1",
-      "caption": "Source has been updated to support Altstore 2.0",
-      "date": "2024-03-11",
-      "tintColor": "000000",
-      "imageURL": "https://www.movieboxpro.app/static/img/pc/introduce_img1.png",
-      "notify": false,
-      "url": "https://www.movieboxpro.app"
-    },
-  ]
+  "news": []
 }
