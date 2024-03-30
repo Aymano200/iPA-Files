@@ -4,10 +4,6 @@
   "description": "Here's all the apps that are important to me",
   "iconURL": "https://example.com/source_icon.png",
   "tintColor": "#F54F32",
-  "featuredApps": [
-    "com.example.myapp",
-    "com.example.anotherapp"
-  ],
   "apps": [],
   "news": [],
 }
