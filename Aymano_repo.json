@@ -8,8 +8,8 @@
     {
         "name": "Limón",
         "bundleIdentifier": "com.antique.Limon",
-        "developerName": "Example Developer",
-        "localizedDescription": "This is an awesome app only available on AltStore.",
+        "developerName": "Antique",
+        "localizedDescription": "This is a 3DS emulator",
         "iconURL": "https://limonemulator.com/wp-content/uploads/2023/11/Limon-Emulator-icon-768x768.png",
         "tintColor": "#F54F32",
         "category": "games",
