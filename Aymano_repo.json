@@ -42,42 +42,6 @@
                 }
       }
     },
-    {
-      "beta": false,
-      "name": "Limón",
-      "bundleIdentifier": "eu.pokemmo.client",
-      "developerName": "pokemmo",
-      "subtitle": "PokeMMO App",
-      "version": "26211",
-      "versionDate": "2024-03-11T12:33:18Z",
-      "versionDescription": " ",
-      "downloadURL": "https://pokemmo.com/download_file/10/",
-      "localizedDescription": "A Pokemon themed MMO",
-      "iconURL": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/d9c3c829337615.55ee89a90fbbb.png",
-      "tintColor": "2d2d30",
-      "category": "games",
-      "size": 108157712,
-      "versions": [
-   {
-    "version": "26211",
-    "date": "2024-03-11",
-    "localizedDescription": " ",
-    "downloadURL": "https://pokemmo.com/download_file/10/",
-    "size": 22000000
-  },
-      ],
-      "appPermissions": {
-                  "entitlements": [
-                    "com.apple.security.application-groups",
-                    "com.apple.developer.siri"
-                ],
-                "privacy": {
-                    "NSPhotoLibraryUsageDescription": "App saves photos to your Photo Library.",
-                    "NSCameraUsageDescription": "App uses camera to take photos.",
-                    "NSMicrophoneUsageDescription": "App uses microphone to record video."
-                }
-      }
-    }
   ],
   "news": []
 }
