@@ -1,10 +1,9 @@
 {
-  "name": "MovieBoxPro for AltStore",
-  "identifier": "com.MBPAltstore.source",
+  "name": "Aymano Repository",
+  "identifier": "com.aymano.source",
   "headerURL": "https://www.movieboxpro.app/static/img/pc/introduce_bg1.png",
-  "website": "https://www.movieboxpro.app",
   "subtitle": "MovieBoxPro Unoffical Altstore source.",
-  "description": "This is an auto-updating Altstore source for MovieBoxPro [ Github: https://github.com/Hann8n/JackCracks/tree/main ]",
+  "description": "This is my personal source with all my favorites apps !",
   "tintColor": "2d2d30",
   "apps": [
     {
@@ -35,9 +34,7 @@
     "date": "2024-03-11",
     "localizedDescription": "Bug fixes and Improvements",
     "downloadURL": "https://www.movieboxpro.app/ipa",
-    "size": 22000000,
-    "minOSVersion": "11.0",
-    "maxOSVersion": "17.4"
+    "size": 22000000
   },
       ],
       "appPermissions": {
