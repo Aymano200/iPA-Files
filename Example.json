@@ -6,29 +6,39 @@
     "headerURL": "https://i.pinimg.com/564x/89/4c/7b/894c7b8f1217e0bea32f45e233437b5c.jpg",
     "website": "https://example.com",
     "tintColor": "#4185A9",
-    "apps": [
+     "apps": [
         {
-            "beta": false,
-            "name": "Limón",
-            "bundleIdentifier": "com.antique.Limon",
-            "developerName": "Antique",
-            "subtitle": "An emulator for 3DS",
-            "version": "1.0.8.5.1",
-            "versionDate": "2024-03-11T12:33:18Z",
-            "versionDescription": "The Limón Emulator is an open-source and free Nintendo 3DS Emulator for iPhone, iPad, and Apple TV, developed by Antique and other GitHub contributors.",
-            "downloadURL": "https://github.com/emuPlace/Limon/releases/download/v1.0.8.5.1/Limon_v1.0.8.5.1.ipa",
-            "localizedDescription": "A 3DS emulator",
-            "iconURL": "https://limonemulator.com/wp-content/uploads/2023/11/Limon-Emulator-icon-768x768.png",
-            "tintColor": "2d2d30",
-            "category": "games",
-            "size": 108157712,
+            "name": "My Example App",
+            "bundleIdentifier": "com.example.myapp",
+            "developerName": "Example Developer",
+            "subtitle": "An awesome app.",
+            "localizedDescription": "This is an awesome app only available on AltStore.",
+            "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/FishApp.png",
+            "tintColor": "#5CA399",
+            "screenshots": [
+                "https://example.com/myapp_portrait_screenshot1.png",
+                "https://example.com/myapp_portrait_screenshot2.png",
+                {
+                    "imageURL": "https://example.com/myapp_landscape_screenshot.png",
+                    "width": 2556,
+                    "height": 1179
+                }
+            ],
             "versions": [
                 {
-                    "version": "1.0.8.5.1",
-                    "date": "2024-03-11",
-                    "localizedDescription": "First Version",
-                    "downloadURL": "https://github.com/emuPlace/Limon/releases/download/v1.0.8.5.1/Limon_v1.0.8.5.1.ipa",
-                    "size": 22000000
+                    "version": "1.1",
+                    "date": "2022-05-01T09:00:00-08:00",
+                    "size": 20000000,
+                    "downloadURL": "https://example.com/myapp_v1.1.ipa",
+                    "localizedDescription": "New features and bug fixes.",
+                    "minOSVersion": "12.0"
+                },
+                {
+                    "version": "1.0",
+                    "date": "2022-03-16T07:00:00-08:00",
+                    "size": 10000000,
+                    "downloadURL": "https://example.com/myapp_v1.0.ipa",
+                    "localizedDescription": "Initial release."
                 }
             ],
             "appPermissions": {
@@ -44,78 +54,73 @@
             }
         },
         {
-            "beta": false,
-            "name": "Dead Cells+",
-            "bundleIdentifier": "com.playdigious.deadcells.applearcade",
-            "developerName": "Playdigious",
-            "subtitle": "The best platformer",
-            "version": "3.2.2",
-            "versionDate": "2024-03-11T12:33:18Z",
-            "versionDescription": "Dead Cells is a roguevania action platformer that will require you to master frantic 2D combat with a wide variety of weapons and skills against merciless minions and boss. Kill. Die. Learn. Repeat.",
-            "downloadURL": "https://download.starfiles.co/AAGekhAVIy2B",
-            "localizedDescription": "The best fight platformer ever",
-            "iconURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c78bc3fc-9f08-47ca-81ae-d89055c7ec49/dcje0h3-3bea73a1-0ba6-4e64-971b-821b8051ecb2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6IlwvZlwvYzc4YmMzZmMtOWYwOC00N2NhLTgxYWUtZDg5MDU1YzdlYzQ5XC9kY2plMGgzLTNiZWE3M2ExLTBiYTYtNGU2NC05NzFiLTgyMWI4MDUxZWNiMi5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.XK62omLgXgyL0bXu0Qi8Ms-owUuwP4xjxX-Ffm1Dgwc",
-            "tintColor": "2d2d30",
-            "category": "games",
-            "size": 108157712,
+            "name": "Another Example App",
+            "bundleIdentifier": "com.example.anotherapp",
+            "developerName": "Example Developer",
+            "subtitle": "Another awesome app.",
+            "localizedDescription": "This is another awesome app only available on AltStore.",
+            "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/SharkApp.png",
+            "tintColor": "#3660A2",
+            "screenshots": {
+                "iphone": [
+                    "https://example.com/anotherapp_portrait_1.png",
+                    "https://example.com/anotherapp_portrait_2.png",
+                    {
+                        "imageURL": "https://example.com/anotherapp_landscape.png",
+                        "width": 2556,
+                        "height": 1179
+                    }
+                ],
+                "ipad": [
+                    {
+                        "imageURL": "https://example.com/anotherapp_ipad_portrait.png",
+                        "width": 1668,
+                        "height": 2388
+                    },
+                    {
+                        "imageURL": "https://example.com/anotherapp_ipad_landscape.png",
+                        "width": 2388,
+                        "height": 1668
+                    }
+                ]
+            },
             "versions": [
                 {
-                    "version": "3.2.2",
-                    "date": "2024-03-11",
-                    "localizedDescription": "Dead Cells is a roguevania action platformer that will require you to master frantic 2D combat with a wide variety of weapons and skills against merciless minions and boss. Kill. Die. Learn. Repeat.",
-                    "downloadURL": "https://download.starfiles.co/AAGekhAVIy2B",
-                    "size": 22000000
+                    "version": "1.2",
+                    "date": "2022-06-21T09:00:00-08:00",
+                    "downloadURL": "https://example.com/anotherapp_v1.2.ipa",
+                    "localizedDescription": "Bug fixes and performance improvements.",
+                    "size": 81514,
+                    "minOSVersion": "13.0"
+                },
+                {
+                    "version": "1.1",
+                    "date": "2022-04-15T10:00:00-08:00",
+                    "downloadURL": "https://example.com/anotherapp_v1.1.ipa",
+                    "localizedDescription": "New features!",
+                    "size": 81364,
+                    "minOSVersion": "13.0",
+                    "maxOSVersion": "16.3"
+                },
+                {
+                    "version": "1.0",
+                    "date": "2022-02-02T07:00:00-08:00",
+                    "downloadURL": "https://example.com/anotherapp_v1.0.ipa",
+                    "localizedDescription": "Initial release.",
+                    "size": 79821
                 }
             ],
             "appPermissions": {
                 "entitlements": [
-                    "com.apple.security.application-groups",
-                    "com.apple.developer.siri"
+                    "com.apple.developer.healthkit",
+                    "com.apple.developer.game-center"
                 ],
                 "privacy": {
-                    "NSPhotoLibraryUsageDescription": "App saves photos to your Photo Library.",
-                    "NSCameraUsageDescription": "App uses camera to take photos.",
-                    "NSMicrophoneUsageDescription": "App uses microphone to record video."
-                }
-            }
-        },
-        {
-            "beta": false,
-            "name": "PokeMMO",
-            "bundleIdentifier": "eu.pokemmo.client",
-            "developerName": "pokemmo",
-            "subtitle": "PokeMMO App",
-            "version": "26211",
-            "versionDate": "2024-03-11T12:33:18Z",
-            "versionDescription": " ",
-            "downloadURL": "https://pokemmo.com/download_file/10/",
-            "localizedDescription": "A Pokemon themed MMO",
-            "iconURL": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/d9c3c829337615.55ee89a90fbbb.png",
-            "tintColor": "2d2d30",
-            "category": "games",
-            "size": 108157712,
-            "versions": [
-                {
-                    "version": "26211",
-                    "date": "2024-03-11",
-                    "localizedDescription": " ",
-                    "downloadURL": "https://pokemmo.com/download_file/10/",
-                    "size": 22000000
-                }
-            ],
-            "appPermissions": {
-                "entitlements": [
-                    "com.apple.security.application-groups",
-                    "com.apple.developer.siri"
-                ],
-                "privacy": {
-                    "NSPhotoLibraryUsageDescription": "App saves photos to your Photo Library.",
-                    "NSCameraUsageDescription": "App uses camera to take photos.",
-                    "NSMicrophoneUsageDescription": "App uses microphone to record video."
+                    "NSLocalNetworkUsageDescription": "App scans the local network for nearby computers."
                 }
             }
         }
-    ]
+    ],
     "news": [
         {
             "title": "New Feature Announcement",
