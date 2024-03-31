@@ -21,6 +21,26 @@
       "size": 16500000,
       "subtitle": "A 3DS emulator for iPhone.",
       "tintColor": "ffe66b",
+      "version": "iOS 15",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "First Version"
+    }
+    {
+      "beta": false,
+      "bundleIdentifier": "com.deezer.DEEZER",
+      "developerName": "Starfiles.co",
+      "downloadURL": "https://github.com/Aymano200/iPA-Files/releases/download/Apps/Limon_v1.0.8.5.1.ipa",
+      "iconURL": "https://github.com/Aymano200/iPA-Files/releases/download/App_icon/Limon.png",
+      "localizedDescription": "The Limón Emulator is an open-source and free Nintendo 3DS Emulator for iPhone, iPad, and Apple TV, developed by Antique and other GitHub contributors.\n \nThe Limón Emulator is a blessing for iOS and Apple TV users as it enables the iPhone, iPad, and Apple TV users to play Nintendo 3DS games on their devices for absolutely free.",
+      "name": "Deezer++",
+       "screenshotURLs": [
+        "",
+        "https://user-images.githubusercontent.com/705880/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.PNG",
+        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+      ],
+      "size": 16500000,
+      "subtitle": "A 3DS emulator for iPhone.",
+      "tintColor": "ffe66b",
       "version": "1.0.8.5.1",
       "versionDate": "2020-03-24T14:00:00-07:00",
       "versionDescription": "First Version"
