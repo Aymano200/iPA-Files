@@ -1,15 +1,11 @@
 {
-    "name": "My Example Source",
-    "subtitle": "All my apps in one place.",
-    "description": "Welcome to my source! Here you'll find all of my apps.",
+    "name": "Aymano Source",
+    "subtitle": "All my favorites apps in one place.",
+    "description": "Welcome to my source! Here you'll find all of the best apps to sideload",
     "iconURL": "https://i.pinimg.com/564x/89/4c/7b/894c7b8f1217e0bea32f45e233437b5c.jpg",
     "headerURL": "https://i.pinimg.com/564x/89/4c/7b/894c7b8f1217e0bea32f45e233437b5c.jpg",
     "website": "https://example.com",
     "tintColor": "#4185A9",
-    "featuredApps": [
-        "com.example.myapp",
-        "com.example.anotherapp"
-    ],
     "apps": [
         {
             "beta": false,
