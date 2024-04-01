@@ -179,6 +179,46 @@
       "version": "3.2.1",
       "versionDate": "2020-03-24T14:00:00-07:00",
       "versionDescription": "This update contains the following changes:\n- Fixed ubershaders.\n- Fixed fastmem crashing on iOS 16."
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.playdigious.deadcells.applearcade",
+      "developerName": "Playdigious",
+      "downloadURL": "https://github.com/Aymano200/iPA-Files/releases/download/Apps/Dead_Cells+_v.3.2.0_troybutts_uploadedBy_ipabnb.starfiles.co.ipa",
+      "iconURL": "https://github.com/Aymano200/iPA-Files/releases/download/App_icon/Dead.Cells.png",
+      "localizedDescription": "Death is not the end.\n\nPlay as a failed alchemic experiment and explore the sprawling, ever-changing castle to find out what happened on this gloomy island…!\nThat is, assuming you’re able to fight your way past its keepers.\n\nDead Cells is a roguevania action platformer that will require you to master frantic 2D combat with a wide variety of weapons and skills against merciless minions and boss.",
+      "name": "Dead Cells+",
+      "screenshotURLs": [
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_600/ncom/software/switch/70010000007706/e1715071794add48c2fe32400feb710c083df9985e049f936fcb7ed6be899202",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_600/ncom/software/switch/70010000007706/0984cd2c147cfaf63ff3847cb3157f471a59b535c974f2965b5fa4c84186e70d",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale,w_600/ncom/software/switch/70010000007706/e88a9f66fc974e23a66e0d60f3cc1e6d98c5d6ecd2d095769ba16b539f3555e5"
+      ],
+      "size": 1350000000,
+      "subtitle": "Kill. Die. Learn. Repeat.",
+      "tintColor": "ff7e44",
+      "version": "3.2.0",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "-- Boss Rush Mode --\nDiscover a new alternative game mode to fight your favourite bosses back to back:\n\n- Pass the 4 trials and overcome nervy bosses to earn gold and cells to invest in the forge\n- Enjoy a well deserved reward for your efforts with 8 new skins, a new weapon, a new skill and a new mutation\n- Craving for more challenge? Let's see if you survive the enhanced bosses...\n- Set your success in stone with a new customizable statue\n\n-- Everyone is Here Vol. 2 --\n\nSpice up your runs with 6 new Outfits, Weapons and lore rooms basedon your favorite indie games:\n\n- Drop meteors from the sky with Terraria's Starfury heavenly sword,\n- Shoulder bash monsters and get bouncy with Shovel Knight's King Scepter,\n- Bash and stun ennemies with Jacket's baseball bat from Hotline Miami,\n- Throw devastating object with Subject ZERO - you really thought we would just add another Katana?\n- Draw from Slay the Spire's Diverse Deck to use each of the classes' devastating skills,\n- Slash all your foes with Risk of Rain's devastating Laser Glaive."
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.pokeMMO.POKEMMO",
+      "developerName": "PokeMMO Team",
+      "downloadURL": "https://github.com/Aymano200/iPA-Files/releases/download/Apps/PokeMMO-Client.ipa",
+      "iconURL": "https://github.com/Aymano200/iPA-Files/releases/download/App_icon/PokeMMO.jpeg",
+      "localizedDescription": "PokeMMO is a free to play mmorpg, come join a growing community as you level up and discover new monsters.",
+      "name": "PokeMMO",
+      "screenshotURLs": [
+        "https://pokemmo.com/build/images/screenshot/a.debf11f5.png",
+        "https://pokemmo.com/build/images/screenshot/b.3a233486.png",
+        "https://pokemmo.com/build/images/screenshot/d.4080dd9c.png"
+      ],
+      "size": 98500000,
+      "subtitle": "A multiplayer Pokemon game.",
+      "tintColor": "404040",
+      "version": "N/A",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "First version ✅."
     }
   ],
     "news": [
