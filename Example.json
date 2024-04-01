@@ -24,7 +24,7 @@
       "subtitle": "A 3DS emulator for iPhone.",
       "tintColor": "ffe66b",
       "version": "iOS 15",
-      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDate": "2024-04-1T14:00:00-07:00",
       "versionDescription": "First Version ✅\n"
     },
       {
@@ -44,7 +44,7 @@
       "subtitle": "A tweaked version of Deezer.",
       "tintColor": "e98fff",
       "version": "iOS 15",
-      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDate": "2024-04-1T14:00:00-07:00",
       "versionDescription": "First version ✅\n"
     },
     {
@@ -64,7 +64,7 @@
       "subtitle": "A custom Enmity patcher.",
       "tintColor": "6c5cff",
       "version": "221.0",
-      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDate": "2024-04-1T14:00:00-07:00",
       "versionDescription": "Update to 221 and pray ✅"
     },
    {
@@ -84,7 +84,7 @@
       "subtitle": "A tweaked version of Structured.",
       "tintColor": "ff96a8",
       "version": "3.4.0",
-      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDate": "2024-04-1T14:00:00-07:00",
       "versionDescription": "First version ✅ "
     },
     {
@@ -102,7 +102,7 @@
       "subtitle": "A tweaked version of AdGuard.",
       "tintColor": "69ed5a",
       "version": "4.5.2",
-      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDate": "2024-04-1T14:00:00-07:00",
       "versionDescription": "First version ✅ "
     }
   ],
@@ -121,7 +121,7 @@
             "title": "App Update Available",
             "identifier": "app_update",
             "caption": "An update is available for My Example App.",
-            "date": "2023-03-10T10:00:00-07:00",
+            "date": "2024-04-1T14:00:00-07:00",
             "tintColor": "#3660A2",
             "imageURL": "https://example.com/app_update_image.png",
             "notify": false,
