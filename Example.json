@@ -24,7 +24,7 @@
       "tintColor": "ffe66b",
       "version": "iOS 15",
       "versionDate": "2024-04-1T14:00:00-07:00",
-      "versionDescription": "First Version ✅\n"
+      "versionDescription": "First Version ✅\n",
     },
       {
       "beta": false,
@@ -44,7 +44,7 @@
       "tintColor": "e98fff",
       "version": "iOS 15",
       "versionDate": "2024-04-1T14:00:00-07:00",
-      "versionDescription": "First version ✅\n"
+      "versionDescription": "First version ✅\n",
     },
     {
       "beta": false,
@@ -64,7 +64,7 @@
       "tintColor": "6c5cff",
       "version": "221.0",
       "versionDate": "2024-04-1T14:00:00-07:00",
-      "versionDescription": "Update to 221 and pray ✅"
+      "versionDescription": "Update to 221 and pray ✅",
     },
    {
       "beta": false,
@@ -84,7 +84,7 @@
       "tintColor": "ff96a8",
       "version": "3.4.0",
       "versionDate": "2024-04-1T14:00:00-07:00",
-      "versionDescription": "First version ✅ "
+      "versionDescription": "First version ✅",
     },
     {
       "beta": false,
@@ -99,7 +99,7 @@
       "tintColor": "69ed5a",
       "version": "4.5.2",
       "versionDate": "2024-04-1T14:00:00-07:00",
-      "versionDescription": "First version ✅ "
+      "versionDescription": "First version ✅",
     },
     {
       "beta": false,
@@ -114,7 +114,7 @@
       "tintColor": "ffabb3",
       "version": "Lazer",
       "versionDate": "2024-04-1T14:00:00-07:00",
-      "versionDescription": "First version ✅ "
+      "versionDescription": "First version ✅",
     },
     {
       "beta": false,
@@ -134,7 +134,7 @@
       "tintColor": "ff4f61",
       "version": "2.618.546",
       "versionDate": "2024-04-1T14:00:00-07:00",
-      "versionDescription": "First version ✅ "
+      "versionDescription": "First version ✅",
     },
     {
       "beta": false,
@@ -152,7 +152,7 @@
       "tintColor": "ff1919",
       "version": "3.0.3.2",
       "versionDate": "2024-04-1T14:00:00-07:00",
-      "versionDescription": "YouTube v19.08.2.\nFixed instant crash on video due to iSponsorBlock (#1323).\nFixed weird OLED theme in Shorts.\nAdded options to hide the Remix / Clip / Download button under the video player, thanks to @PoomSmart."
+      "versionDescription": "YouTube v19.08.2.\nFixed instant crash on video due to iSponsorBlock (#1323).\nFixed weird OLED theme in Shorts.\nAdded options to hide the Remix / Clip / Download button under the video player, thanks to @PoomSmart.",
     },
     {
       "beta": false,
@@ -171,7 +171,7 @@
       "tintColor": "34b1eb",
       "version": "3.2.1",
       "versionDate": "2024-04-1T14:00:00-07:00",
-      "versionDescription": "This update contains the following changes:\n- Fixed ubershaders.\n- Fixed fastmem crashing on iOS 16."
+      "versionDescription": "This update contains the following changes:\n- Fixed ubershaders.\n- Fixed fastmem crashing on iOS 16.",
     },
     {
       "beta": false,
@@ -191,7 +191,7 @@
       "tintColor": "ff7e44",
       "version": "3.2.0",
       "versionDate": "2024-04-1T14:00:00-07:00",
-      "versionDescription": "-- Boss Rush Mode --\nDiscover a new alternative game mode to fight your favourite bosses back to back:\n\n- Pass the 4 trials and overcome nervy bosses to earn gold and cells to invest in the forge\n- Enjoy a well deserved reward for your efforts with 8 new skins, a new weapon, a new skill and a new mutation\n- Craving for more challenge? Let's see if you survive the enhanced bosses...\n- Set your success in stone with a new customizable statue\n\n-- Everyone is Here Vol. 2 --\n\nSpice up your runs with 6 new Outfits, Weapons and lore rooms basedon your favorite indie games:\n\n- Drop meteors from the sky with Terraria's Starfury heavenly sword,\n- Shoulder bash monsters and get bouncy with Shovel Knight's King Scepter,\n- Bash and stun ennemies with Jacket's baseball bat from Hotline Miami,\n- Throw devastating object with Subject ZERO - you really thought we would just add another Katana?\n- Draw from Slay the Spire's Diverse Deck to use each of the classes' devastating skills,\n- Slash all your foes with Risk of Rain's devastating Laser Glaive."
+      "versionDescription": "-- Boss Rush Mode --\nDiscover a new alternative game mode to fight your favourite bosses back to back:\n\n- Pass the 4 trials and overcome nervy bosses to earn gold and cells to invest in the forge\n- Enjoy a well deserved reward for your efforts with 8 new skins, a new weapon, a new skill and a new mutation\n- Craving for more challenge? Let's see if you survive the enhanced bosses...\n- Set your success in stone with a new customizable statue\n\n-- Everyone is Here Vol. 2 --\n\nSpice up your runs with 6 new Outfits, Weapons and lore rooms basedon your favorite indie games:\n\n- Drop meteors from the sky with Terraria's Starfury heavenly sword,\n- Shoulder bash monsters and get bouncy with Shovel Knight's King Scepter,\n- Bash and stun ennemies with Jacket's baseball bat from Hotline Miami,\n- Throw devastating object with Subject ZERO - you really thought we would just add another Katana?\n- Draw from Slay the Spire's Diverse Deck to use each of the classes' devastating skills,\n- Slash all your foes with Risk of Rain's.",
     },
     {
       "beta": false,
@@ -211,7 +211,7 @@
       "tintColor": "404040",
       "version": "N/A",
       "versionDate": "2024-04-1T14:00:00-07:00",
-      "versionDescription": "First version ✅."
+      "versionDescription": "First version ✅.",
     }
   ],
     "news": [
