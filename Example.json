@@ -66,6 +66,24 @@
       "version": "221.0",
       "versionDate": "2020-03-24T14:00:00-07:00",
       "versionDescription": "Update to 221 and pray ✅"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.adguard.AdguardExtension",
+      "developerName": "acquitelol",
+      "downloadURL": "https://github.com/Aymano200/iPA-Files/releases/download/Apps/AdGuardPro-4.5.2.ipa",
+      "iconURL": "https://github.com/Aymano200/iPA-Files/releases/download/App_icon/AdGuard.jpeg",
+      "localizedDescription": "A version of AdGuard with pro subscription unlocked for free 🔓 ",
+      "name": "Rosiecord",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 41600000,
+      "subtitle": "A tweaked version of AdGuard.",
+      "tintColor": "69ed5a",
+      "version": "4.5.2",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "First version ✅ "
     }
   ],
     "news": [
