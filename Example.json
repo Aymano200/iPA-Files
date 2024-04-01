@@ -15,8 +15,10 @@
       "iconURL": "https://github.com/Aymano200/iPA-Files/releases/download/App_icon/Limon.png",
       "localizedDescription": "The Limón Emulator is an open-source and free Nintendo 3DS Emulator for iPhone, iPad, and Apple TV, developed by Antique and other GitHub contributors.\n \nThe Limón Emulator is a blessing for iOS and Apple TV users as it enables the iPhone, iPad, and Apple TV users to play Nintendo 3DS games on their devices for absolutely free.",
       "name": "Limón",
-      "screenshotURLs": [
-        ""
+"screenshotURLs": [
+        "https://limonemulator.com/wp-content/uploads/2023/06/emuthreeds-ss-1.png",
+        "https://limonemulator.com/wp-content/uploads/2023/06/emuthreeds-ss-2.png",
+        "https://limonemulator.com/wp-content/uploads/2023/06/emuthreeds-ss-3.png"
       ],
       "size": 16500000,
       "subtitle": "A 3DS emulator for iPhone.",
