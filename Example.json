@@ -158,7 +158,7 @@
       "subtitle": "A tweaked version of YouTube.",
       "tintColor": "ff1919",
       "version": "3.0.3.2",
-      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDate": "2024-04-1T14:00:00-07:00",
       "versionDescription": "YouTube v19.08.2.\nFixed instant crash on video due to iSponsorBlock (#1323).\nFixed weird OLED theme in Shorts.\nAdded options to hide the Remix / Clip / Download button under the video player, thanks to @PoomSmart."
     },
     {
@@ -177,7 +177,7 @@
       "subtitle": "The best Wii and GameCube emulator for iOS.",
       "tintColor": "34b1eb",
       "version": "3.2.1",
-      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDate": "2024-04-1T14:00:00-07:00",
       "versionDescription": "This update contains the following changes:\n- Fixed ubershaders.\n- Fixed fastmem crashing on iOS 16."
     },
     {
@@ -197,7 +197,7 @@
       "subtitle": "Kill. Die. Learn. Repeat.",
       "tintColor": "ff7e44",
       "version": "3.2.0",
-      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDate": "2024-04-1T14:00:00-07:00",
       "versionDescription": "-- Boss Rush Mode --\nDiscover a new alternative game mode to fight your favourite bosses back to back:\n\n- Pass the 4 trials and overcome nervy bosses to earn gold and cells to invest in the forge\n- Enjoy a well deserved reward for your efforts with 8 new skins, a new weapon, a new skill and a new mutation\n- Craving for more challenge? Let's see if you survive the enhanced bosses...\n- Set your success in stone with a new customizable statue\n\n-- Everyone is Here Vol. 2 --\n\nSpice up your runs with 6 new Outfits, Weapons and lore rooms basedon your favorite indie games:\n\n- Drop meteors from the sky with Terraria's Starfury heavenly sword,\n- Shoulder bash monsters and get bouncy with Shovel Knight's King Scepter,\n- Bash and stun ennemies with Jacket's baseball bat from Hotline Miami,\n- Throw devastating object with Subject ZERO - you really thought we would just add another Katana?\n- Draw from Slay the Spire's Diverse Deck to use each of the classes' devastating skills,\n- Slash all your foes with Risk of Rain's devastating Laser Glaive."
     },
     {
@@ -217,7 +217,7 @@
       "subtitle": "A multiplayer Pokemon game.",
       "tintColor": "404040",
       "version": "N/A",
-      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDate": "2024-04-1T14:00:00-07:00",
       "versionDescription": "First version ✅."
     }
   ],
