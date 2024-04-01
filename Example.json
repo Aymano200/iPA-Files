@@ -67,13 +67,33 @@
       "versionDate": "2020-03-24T14:00:00-07:00",
       "versionDescription": "Update to 221 and pray ✅"
     },
+   {
+      "beta": false,
+      "bundleIdentifier": "com.leomehlig.today",
+      "developerName": "App Cracks",
+      "downloadURL": "https://github.com/Aymano200/iPA-Files/releases/download/Apps/StructuredPro-3.4.0.ipa",
+      "iconURL": "https://github.com/Aymano200/iPA-Files/releases/download/App_icon/Structured.png",
+      "localizedDescription": "A version of Structured with Pro subscription unlocked for free 🔓 ",
+      "name": "Structured Pro",
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG",
+        "https://user-images.githubusercontent.com/705880/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.PNG",
+        "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+      ],
+      "size": 92400000,
+      "subtitle": "A tweaked version of Structured.",
+      "tintColor": "ff96a8",
+      "version": "3.4.0",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "First version ✅ "
+    },
     {
       "beta": false,
       "bundleIdentifier": "com.adguard.AdguardExtension",
       "developerName": "acquitelol",
       "downloadURL": "https://github.com/Aymano200/iPA-Files/releases/download/Apps/AdGuardPro-4.5.2.ipa",
       "iconURL": "https://github.com/Aymano200/iPA-Files/releases/download/App_icon/AdGuard.jpeg",
-      "localizedDescription": "A version of AdGuard with pro subscription unlocked for free 🔓 ",
+      "localizedDescription": "A version of AdGuard with Pro subscription unlocked for free 🔓 ",
       "name": "Rosiecord",
       "screenshotURLs": [
         ""
