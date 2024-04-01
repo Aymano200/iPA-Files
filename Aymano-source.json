@@ -95,9 +95,6 @@
       "iconURL": "https://github.com/Aymano200/iPA-Files/releases/download/App_icon/AdGuard.jpeg",
       "localizedDescription": "A version of AdGuard with Pro subscription unlocked for free 🔓 ",
       "name": "AdGuard",
-      "screenshotURLs": [
-        ""
-      ],
       "size": 41600000,
       "subtitle": "A tweaked version of AdGuard.",
       "tintColor": "69ed5a",
@@ -113,9 +110,6 @@
       "iconURL": "https://github.com/Aymano200/iPA-Files/releases/download/App_icon/Osu.png",
       "localizedDescription": "Osu! is a free-to-play rhythm game primarily ",
       "name": "Osu!",
-      "screenshotURLs": [
-        ""
-      ],
       "size": 147000000,
       "subtitle": "The best free-to-win rhythm game.",
       "tintColor": "ffabb3",
