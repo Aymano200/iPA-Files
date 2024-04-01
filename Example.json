@@ -120,12 +120,12 @@
       "subtitle": "The best free-to-win rhythm game.",
       "tintColor": "ffabb3",
       "version": "Lazer",
-      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDate": "2024-04-1T14:00:00-07:00",
       "versionDescription": "First version ✅ "
     },
     {
       "beta": false,
-      "bundleIdentifier": "com.riley",
+      "bundleIdentifier": "com.roblox.robloxmobile",
       "developerName": "SPDM Team",
       "downloadURL": "https://github.com/Aymano200/iPA-Files/releases/download/Apps/ArceusX_2.618.546_1711846379.ipa",
       "iconURL": "https://github.com/Aymano200/iPA-Files/releases/download/App_icon/Roblox.png",
@@ -140,7 +140,7 @@
       "subtitle": "The best iOS Roblox Script Executor.",
       "tintColor": "ff4f61",
       "version": "2.618.546",
-      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDate": "2024-04-1T14:00:00-07:00",
       "versionDescription": "First version ✅ "
     }
   ],
