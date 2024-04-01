@@ -46,6 +46,26 @@
       "version": "iOS 15",
       "versionDate": "2020-03-24T14:00:00-07:00",
       "versionDescription": "First version ✅\n"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "acquitelol",
+      "downloadURL": "https://github.com/Aymano200/iPA-Files/releases/download/Rosiecord/Rosiecord-221_Cabin-Font+Plumpy_Icons.ipa",
+      "iconURL": "https://github.com/Aymano200/iPA-Files/releases/download/App_icon/Discord.png",
+      "localizedDescription": "A custom Enmity patcher with interchangeable fonts, icons, and tweaks :3",
+      "name": "Rosiecord",
+      "screenshotURLs": [
+        "https://imag.malavida.com/mvimgbig/download-fs/discord-20891-1.jpg",
+        "https://imag.malavida.com/mvimgbig/download-fs/discord-20891-2.jpg",
+        "https://imag.malavida.com/mvimgbig/download-fs/discord-20891-3.jpg"
+      ],
+      "size": 104000000,
+      "subtitle": "A custom Enmity patcher.",
+      "tintColor": "6c5cff",
+      "version": "221.0",
+      "versionDate": "2020-03-24T14:00:00-07:00",
+      "versionDescription": "Update to 221 and pray ✅"
     }
   ],
     "news": [
