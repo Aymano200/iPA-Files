@@ -10,6 +10,6 @@
     "streamType": "HLS",
     "quality": "720p",
     "baseUrl": "https://anime-sama.fr",
-    "searchBaseUrl": "https://anime-sama.fr/catalogue",
+    "searchBaseUrl": "https://anime-sama.fr/catalogue/%s",
     "scriptUrl": "https://github.com/Aymano200/iPA-Files/raw/refs/heads/main/as.js"
 }
