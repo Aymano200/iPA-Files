@@ -10,7 +10,7 @@
   "apps": [
     {
       "name": "StikJIT",
-      "bundleIdentifier": "com.0blu.stikjit",
+      "bundleIdentifier": "com.stik.sj",
       "developerName": "0-Blu",
       "subtitle": "Enable JIT on iOS without a PC",
       "localizedDescription": "StikJIT allows on-device Just-In-Time (JIT) compilation for iOS 17.4 and later, eliminating the need for a computer. Requires a pairing file from Jitterbug Pair and the StosVPN app.",
