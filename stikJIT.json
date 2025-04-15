@@ -1,0 +1,36 @@
+{
+  "name": "StikJIT Source",
+  "identifier": "com.stikjit.source",
+  "subtitle": "On-device JIT Enabler for iOS",
+  "description": "Official AltStore source for StikJIT, enabling Just-In-Time compilation directly on your device.",
+  "iconURL": "https://raw.githubusercontent.com/0-Blu/StikJIT/main/icon.png",
+  "headerURL": "https://raw.githubusercontent.com/0-Blu/StikJIT/main/header.png",
+  "website": "https://github.com/0-Blu/StikJIT",
+  "tintColor": "#FF9500",
+  "apps": [
+    {
+      "name": "StikJIT",
+      "bundleIdentifier": "com.0blu.stikjit",
+      "developerName": "0-Blu",
+      "subtitle": "Enable JIT on iOS without a PC",
+      "localizedDescription": "StikJIT allows on-device Just-In-Time (JIT) compilation for iOS 17.4 and later, eliminating the need for a computer. Requires a pairing file from Jitterbug Pair and the StosVPN app.",
+      "iconURL": "https://raw.githubusercontent.com/0-Blu/StikJIT/main/icon.png",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/0-Blu/StikJIT/main/screenshot1.png",
+        "https://raw.githubusercontent.com/0-Blu/StikJIT/main/screenshot2.png"
+      ],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2025-04-15T12:00:00-04:00",
+          "localizedDescription": "Initial release of StikJIT.",
+          "downloadURL": "https://github.com/0-Blu/StikJIT/releases/download/1.3.1/StikJIT_1.3.1.ipa",
+          "size": 12345678,
+          "minOSVersion": "17.4",
+          "sha256": "your_app_sha256_hash"
+        }
+      ]
+    }
+  ],
+  "news": []
+}
